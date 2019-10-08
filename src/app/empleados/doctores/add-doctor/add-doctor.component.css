@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+}
+#tablaBotones{
+    text-align: center;
+    margin-left: 19%;
+    margin-right: 20%;
+}
+button{
+    width: 300px;
+}
